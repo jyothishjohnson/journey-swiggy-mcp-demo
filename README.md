@@ -12,7 +12,7 @@ Currently, Journey serves as a highly contextual daily fitness companion. Unlike
 
 <img width="350" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-28 at 20 44 11" src="https://github.com/user-attachments/assets/cfe8fec8-bd44-48b1-a8f0-640c7dbf8b77" />
 
-
+---
 While our physical tracking is robust, the nutrition aspect—arguably the most crucial part of fitness—is still a manual, fragmented process for users. That's where Swiggy comes in.
 
 ---
