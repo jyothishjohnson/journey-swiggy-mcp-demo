@@ -9,8 +9,12 @@ Currently, Journey serves as a highly contextual daily fitness companion. Unlike
 - **Comprehensive Tracking:** We currently track your daily **workouts, water intake, step counts, and sleep metrics**.
 - **Context Awareness:** The app knows if today is a "Training Day" or a "Rest Day" and adjusts your recovery profile accordingly.
 - **Archetype Profiling:** We tailor the experience based on user archetypes (e.g., Strength Purist vs. Wellness Starter).
+---
 
-<img width="350" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-28 at 20 44 11" src="https://github.com/user-attachments/assets/cfe8fec8-bd44-48b1-a8f0-640c7dbf8b77" />
+<img width="350" alt="Simulator Screenshot - iPhone 17 - 2026-05-08 at 20 14 57" src="https://github.com/user-attachments/assets/5139342f-8a5c-4464-92e5-afcc1e9a4ead" />
+<img width="350" alt="Simulator Screenshot - iPhone 17 - 2026-05-08 at 20 03 14" src="https://github.com/user-attachments/assets/17de8205-6cc5-44d2-91c1-6a761fe016fd" />
+<img width="350" alt="Simulator Screenshot - iPhone 17 - 2026-05-08 at 20 02 41" src="https://github.com/user-attachments/assets/41eaf9c6-ad11-4d2a-a75d-c99f961f5b62" />
+<img width="350" alt="Simulator Screenshot - iPhone 17 - 2026-05-08 at 20 06 54" src="https://github.com/user-attachments/assets/1d26b955-9071-4134-ac6c-63471977c2ec" />
 
 ---
 While our physical tracking is robust, the nutrition aspect—arguably the most crucial part of fitness—is still a manual, fragmented process for users. That's where Swiggy comes in.
